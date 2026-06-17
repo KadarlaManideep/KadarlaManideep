@@ -17,7 +17,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-I'm a **Full Stack .NET Engineer** with ~4.5 years of experience building scalable, cloud-native applications. I thrive at the intersection of backend precision and frontend elegance — turning complex requirements into clean, performant software.
+I'm a **Full Stack .NET Engineer** with ~4.5 years of experience building scalable, cloud-native applications. I thrive at the intersection of backend precision and frontend elegance turning complex requirements into clean, performant software.
 
 - 🔭 **Currently working on:** Full Stack applications with .NET Core, Angular/React, and AI integrations using RAG pipelines & Azure AI Foundry
 - - 🌩️ **Cloud & DevOps:** Experienced with Azure services, Docker containerization, and Kubernetes orchestration
@@ -62,23 +62,16 @@ I'm a **Full Stack .NET Engineer** with ~4.5 years of experience building scalab
 
       </div>
 
-     
-
-    
-
       <!-- SECTION H: FOOTER -->
       ## 🤝 Let's Connect!
 
       <div align="center">
 
-      I'm always open to interesting conversations, collaborations, and new opportunities. Whether you have a project in mind, want to discuss tech, or just want to say hi — feel free to reach out!
+      I'm always open to interesting conversations, collaborations, and new opportunities. Whether you have a project in mind, want to discuss tech, or just want to say hi, feel free to reach out!
 
       [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manideep-kadarla-3829441a0)
       [![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KadarlaManideep)
 
-      ---
-
-      *"First, solve the problem. Then, write the code."* — John Johnson
 
       ⭐️ From [KadarlaManideep](https://github.com/KadarlaManideep) | Full Stack .NET Engineer | Building the future, one commit at a time.
 
