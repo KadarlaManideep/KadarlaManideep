@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
-[![Profile Views](https://komarev.com/ghpvc/?username=KadarlaManideep&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/KadarlaManideep)
+[<!-- SECTION G: VISITOR COUNTER -->
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=KadarlaManideep&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/KadarlaManideep)](url) -->
 
 <!-- SECTION A: ANIMATED HEADER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
